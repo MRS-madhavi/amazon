@@ -1,0 +1,18 @@
+.class{
+    border: 1px solid rgb(75, 71, 71);
+    border-radius:10px;
+}
+.button
+{
+    background-color:#f0c14b;
+    width:300px;
+    padding: 0px;
+    margin-bottom: 4px;
+    border-radius: 7px;
+    border:none;
+    text-align: center;
+    
+}
+.inline{
+   display: inline;
+}
